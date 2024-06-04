@@ -1,0 +1,9 @@
+{
+    "provider": "gmail",
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "username": "whatever@gmail.com",
+    "password": "theapppassword",
+    "test_mail_to": "testtoanotheremail@gmail.com",
+    "test_mail_reader_url": "https://api-to-read-an-email.com"
+}
